@@ -1,0 +1,9 @@
+288K	/var/log/lastlog
+68K	/var/log/dpkg.log
+36K	/var/log/apt/term.log
+24K	/var/log/apt/eipp.log.xz
+8.0K	/var/log/apt/history.log
+4.0K	/var/log/alternatives.log
+0	/var/log/wtmp
+0	/var/log/landscape/sysinfo.log
+0	/var/log/btmp
