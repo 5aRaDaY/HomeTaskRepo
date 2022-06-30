@@ -1,9 +1,10 @@
 #!/bin/bash
-for file in $(ls /usr/)
+
+for file in /usr/bin/*
 do
   if [ -x $file ]
   then
-    echo "$file"
+    echo "$file is executable"
   fi
 done > executable.txt
 echo "finished."

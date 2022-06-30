@@ -1,0 +1,5 @@
+286K	/var/log/lastlog
+66K	/var/log/dpkg.log
+3.9K	/var/log/alternatives.log
+384	/var/log/btmp
+0	/var/log/wtmp
