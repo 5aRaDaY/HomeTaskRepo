@@ -4,7 +4,7 @@ aa-teardown
 accessdb
 add-shell
 addgnupghome
+addgroup
 adduser
 agetty
 apparmor_parser
-applygnupgdefaults
