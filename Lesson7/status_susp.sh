@@ -7,7 +7,7 @@ pid=`ps -ef | grep root | grep "$name" | awk '{print $2}'`
 
 if [ -n "${pid}" ]
 then
-	sudo kill -18 $pid
+	sudo kill -SIGTSTP $pid
 	count=1	
 		while [ $count -le 6 ]
 		do
